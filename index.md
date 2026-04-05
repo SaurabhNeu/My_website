@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
+<img src="Saurabh-Shukla-36.jpg" alt="Profile Photo" width="200">
+
 # Dr. Saurabh Shukla
 
 Assistant Professor  
