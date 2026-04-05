@@ -1,12 +1,13 @@
 title: "Dr. Saurabh Shukla"
 description: "Assistant Professor | Physics"
 theme: minima
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+
 header_pages:
-   - _pages/about.md
+  - _pages/about.md
   - _pages/research.md
   - _pages/publications.md
   - _pages/teaching.md
-  - _pages/contact.md
