@@ -1,0 +1,7 @@
+title: "Dr. Saurabh Shukla"
+description: "Assistant Professor | Physics"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
