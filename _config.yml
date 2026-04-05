@@ -8,6 +8,7 @@ kramdown:
 
 header_pages:
   - about.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/teaching.md
+  - research.md
+  - publications.md
+  - teaching.md
+  -contact.md
